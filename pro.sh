@@ -13,5 +13,6 @@ sphinx-quickstart --sep --dot=_ \
     --makefile --no-batchfile \
     -q
 
+sed  '86s/alabaster/sphinx_rtd_theme/' source/conf.py -i
 
 #--master=MASTER --ext-mathjax
