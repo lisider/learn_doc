@@ -14,6 +14,8 @@ We support webhooks so your docs get built when you commit code.
 
 There's also support for versioning so you can build docs from tags and branches of your code in your repository.
 
+readthedocs 用的也应该是 sphinx ? webhooks 到底是什么技术 ?
+
 怎么做
 ------------
 切换到具体的仓库->settings->Integrations&service->Installed GitHub Apps->Add service->readthedocs
