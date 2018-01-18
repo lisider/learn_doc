@@ -4,6 +4,7 @@
 # You can set these variables from the command line.
 SPHINXOPTS    =
 SPHINXBUILD   = sphinx-build
+SPHINXPROJ    = how-to-write-a-book
 SOURCEDIR     = source
 BUILDDIR      = build
 
